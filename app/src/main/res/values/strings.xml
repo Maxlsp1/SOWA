@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SOWA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab2">Tab2</string>
+    <string name="hello_world_2">Hello world 2</string>
+    <string name="hello_world">Hello world</string>
+    <string name="nom_de_la_ville">Nom de la ville</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="langue_utilis_e">Langue utilisée</string>
+    <string name="nom_de_ville">Nom de ville</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="changer">Changer</string>
+    <string name="new_blank_frag">new Blank Frag</string>
+    <string name="delete">Delete</string>
+    <string name="name_city">name-City</string>
+    <string name="last_update">last-update</string>
+    <string name="image">image</string>
+    <string name="temperature">temperature</string>
+    <string name="condition">condition</string>
+    <string name="wind_value">wind value</string>
+    <string name="cloud_value">cloud value</string>
+    <string name="humidity_value">humidity value</string>
+    <string name="pressure_value">pressure value</string>
+    <string name="previous_day">Prev day</string>
+    <string name="next_day">Next day</string>
+    <string name="rain_value">rain value</string>
+</resources>
